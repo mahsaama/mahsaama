@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Mahsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahsaama&show_icons=true&theme=Gradient)](https://github.com/mahsaama/github-readme-stats)
+[![Mahsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahsaama&show_icons=true)](https://github.com/mahsaama/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsaama&layout=compact)](https://github.com/mahsaama/github-readme-stats)
